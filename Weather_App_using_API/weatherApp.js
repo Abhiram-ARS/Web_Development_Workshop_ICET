@@ -20,5 +20,5 @@ async function getWeather(city){
     }
 }
 
-let city = process.argv[2] || "New York"
+let city = process.argv[2] || "Delhi"
 getWeather(city)
