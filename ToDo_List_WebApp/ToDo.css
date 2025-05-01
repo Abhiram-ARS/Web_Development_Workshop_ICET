@@ -1,0 +1,45 @@
+#container{
+    border: 4px solid black;
+    position: relative;
+    width: 500px;
+    Height: 500px;
+    background-color: rgb(177, 177, 177);
+}
+
+h1 {
+    color: rgb(4, 0, 62);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    word-spacing: 4px;
+}
+
+button{
+    border: 2px solid black;    
+    width: 100px;
+    Height: 30px;
+    color: azure;
+    background-color: black;
+}
+
+.deleteBtn{
+    border: 2px solid White;    
+    width: 40px;
+    Height: 30px;
+    color: azure;
+    background-color: white;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+    align-items: center;
+    background-color: rgb(198, 244, 244);
+}
+
+ul{
+    line-height: 10px;
+}
