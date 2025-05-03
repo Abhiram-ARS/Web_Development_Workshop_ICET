@@ -1,4 +1,4 @@
-#### To Do List
+# To Do List
 The To-Do List web application allows users to efficiently add and delete tasks within a simple, interactive interface. Built with HTML, CSS, and JavaScript, this project provides a user-friendly platform to help individuals organize and track their tasks.
 
 Key Features:
@@ -12,3 +12,6 @@ User Interface: The application is styled with a clean layout. The task containe
 Responsive Design: The layout uses flexbox for centering and adapting to different screen sizes, ensuring the app is usable across devices.
 
 This project demonstrates the core concepts of web development, including DOM manipulation, event handling, and CSS styling, while offering a straightforward, interactive solution to task management.
+
+# Weather App
+
