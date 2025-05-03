@@ -11,7 +11,7 @@ Key Features:
 
 * Responsive Design: The layout uses flexbox for centering and adapting to different screen sizes, ensuring the app is usable across devices.
 
-* This project demonstrates the core concepts of web development, including DOM manipulation, event handling, and CSS styling, while offering a straightforward, interactive solution to task management.
+This project demonstrates the core concepts of web development, including DOM manipulation, event handling, and CSS styling, while offering a straightforward, interactive solution to task management.
 
 # Weather_App_using_API
 This Weather Forecast application allows users to retrieve real-time weather information for a specified city using the OpenWeatherMap API. It is a simple Node.js application that fetches and displays weather data such as temperature, weather description, humidity, and wind speed.
