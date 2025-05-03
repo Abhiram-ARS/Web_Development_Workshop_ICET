@@ -1,4 +1,4 @@
-# To Do List
+# ToDo_List_WebApp
 The To-Do List web application allows users to efficiently add and delete tasks within a simple, interactive interface. Built with HTML, CSS, and JavaScript, this project provides a user-friendly platform to help individuals organize and track their tasks.
 
 Key Features:
