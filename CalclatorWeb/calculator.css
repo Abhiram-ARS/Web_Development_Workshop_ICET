@@ -1,0 +1,28 @@
+body{
+    border: 2px solid black;    
+    border-radius: 8px; /*curving edges*/
+    width: 450px;
+    Height: 500px;
+    padding: 50px;
+    background-color: white;
+    box-align : center;
+    text-align : center;
+    justify-content: center;
+}
+
+h1 {
+    color: Black;
+    text-align: center;
+    letter-spacing: 2px;
+    word-spacing: 4px;
+}
+
+p{
+    color : White
+}
+button{
+    border: 2px solid black;    
+    width: 100px;
+    Height: 50px;
+    background-color: Black;
+}
