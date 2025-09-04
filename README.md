@@ -1,4 +1,4 @@
-# [ToDo_List_WebApp](https://github.com/Abhiram-ARS/Web_Development_Workshop_ICET/tree/main/ToDo_List_WebApp)
+# [ToDo_List_WebApp](https://github.com/Abhiram-ARS/Web_Development_Workshop_ICET/tree/main/1_ToDo_List_WebApp)
 The To-Do List web application allows users to efficiently add and delete tasks within a simple, interactive interface. Built with HTML, CSS, and JavaScript, this project provides a user-friendly platform to help individuals organize and track their tasks.
 
 Key Features:
@@ -10,7 +10,7 @@ Key Features:
 
 This project demonstrates the core concepts of web development, including DOM manipulation, event handling, and CSS styling, while offering a straightforward, interactive solution to task management.
 
-# [Weather_App_using_API](https://github.com/Abhiram-ARS/Web_Development_Workshop_ICET/tree/main/Weather_App_using_API)
+# [Weather_App_using_API](https://github.com/Abhiram-ARS/Web_Development_Workshop_ICET/tree/main/2_Weather_App_using_API)
 This Weather Forecast application allows users to retrieve real-time weather information for a specified city using the OpenWeatherMap API. It is a simple Node.js application that fetches and displays weather data such as temperature, weather description, humidity, and wind speed.
 
 Key Features:
@@ -22,7 +22,7 @@ Key Features:
 
 This project is an excellent example of how to build a simple command-line weather application using Node.js and external APIs.
 
-# [Calculator_Web](https://github.com/Abhiram-ARS/Web_Development_Workshop_ICET/tree/main/CalclatorWeb)
+# [Calculator_Web](https://github.com/Abhiram-ARS/Web_Development_Workshop_ICET/tree/main/3_Calclator_WebApp)
 A simple web-based calculator that performs basic arithmetic operations like addition, subtraction, multiplication, and average using JavaScript. It features a user-friendly interface with dynamic result display.
 
 Key Features:
